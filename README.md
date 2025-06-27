@@ -14,3 +14,4 @@ GreyEYE is a tactical, AI-powered operations assistant built for penetration tes
 ---
 
 > “Systemet tænker. Systemet vælger. Systemet slår.”
+HUSK opdatere README.dk
